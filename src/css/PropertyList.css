@@ -1,0 +1,10 @@
+.property-list {
+  padding: 20px;
+}
+
+.property-grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
